@@ -1,6 +1,6 @@
 # CyberShield - Cybersecurity Learning Platform 🔒
 
-![CyberShield Banner](https://via.placeholder.com/1200x400/0d1b2a/4361ee?text=CyberShield+Security)
+
 
 ## 🌐 Live Website
 **Visit:** [https://learncybershield.netlify.app/)
